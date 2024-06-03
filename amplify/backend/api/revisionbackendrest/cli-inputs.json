@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/messages": {
+      "name": "/messages",
+      "lambdaFunction": "revisionbackend",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
